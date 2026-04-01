@@ -2,7 +2,7 @@
 Interactive time series forecasting dashboard using R Shiny and Exponential Smoothing methods.
 
 ## Live Demo
-[https://namakamu.shinyapps.io/dashboardmu](https://bintvdn.shinyapps.io/Exponential_Smoothing_App/)
+(https://bintvdn.shinyapps.io/Exponential_Smoothing_App/)
 
 ## Features
 - Upload dataset
